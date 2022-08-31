@@ -7,3 +7,4 @@ Print current working directory script
 6-firstdirectory: creates a directory named my_first_directory in /tmp/ \n
 7-movethatfile: moves file named betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete: deletes the file betty from /tmp/my_first_directory \n
+9-firstdirdeletion: deletes the directory my_first_directory in /tmp/ \n
