@@ -9,3 +9,4 @@ Print current working directory script
 8-firstdelete: deletes the file betty from /tmp/my_first_directory \n
 9-firstdirdeletion: deletes the directory my_first_directory in /tmp/ \n
 10-back: to navigate to the previous directory \n
+11-lists: to display in long format, contents of the current, parent of working, and /boot directories \n
