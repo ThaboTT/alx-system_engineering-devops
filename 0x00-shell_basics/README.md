@@ -4,3 +4,4 @@ Print current working directory script
 3-listfiles: display current directory contents in a long format \n
 4-listmorefiles: to list current directory files in long format
 5-listfilesdigitonly: displays files in longformat-with hiddenfiles-user group and IDs in numeric \n
+6-firstdirectory: creates a directory named my_first_directory in /tmp/ \n
