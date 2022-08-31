@@ -3,3 +3,4 @@ Print current working directory script
 \n2-bring_me_home: to navigate to the user home directory
 3-listfiles: display current directory contents in a long format \n
 4-listmorefiles: to list current directory files in long format
+5-listfilesdigitonly: displays files in longformat-with hiddenfiles-user group and IDs in numeric \n
