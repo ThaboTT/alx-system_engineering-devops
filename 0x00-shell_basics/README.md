@@ -6,3 +6,4 @@ Print current working directory script
 5-listfilesdigitonly: displays files in longformat-with hiddenfiles-user group and IDs in numeric \n
 6-firstdirectory: creates a directory named my_first_directory in /tmp/ \n
 7-movethatfile: moves file named betty from /tmp/ to /tmp/my_first_directory
+8-firstdelete: deletes the file betty from /tmp/my_first_directory \n
