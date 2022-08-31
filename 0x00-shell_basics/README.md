@@ -10,3 +10,4 @@ Print current working directory script
 9-firstdirdeletion: deletes the directory my_first_directory in /tmp/ \n
 10-back: to navigate to the previous directory \n
 11-lists: to display in long format, contents of the current, parent of working, and /boot directories \n
+12-file_type: to print the type of file iamafile in /tmp/
