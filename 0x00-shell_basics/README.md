@@ -12,3 +12,4 @@ Print current working directory script
 11-lists: to display in long format, contents of the current, parent of working, and /boot directories \n
 12-file_type: to print the type of file iamafile in /tmp/
 13-symbolic_link: to create symbolic link _ls_ to /bin/ls \n
+14-copy_html: copies all html files in the current directory to parent directory - only new versions and non-existant \n
