@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | head | sort -rk 6,8
+find . -type f | head -n 10 | sort -rk 6,8
