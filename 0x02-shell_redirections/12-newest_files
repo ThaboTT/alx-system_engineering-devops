@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lrt -f | head
+find . -type f | sort -nrk6 | head
