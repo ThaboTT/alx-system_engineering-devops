@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f | sort -nk7r | head -n 10
